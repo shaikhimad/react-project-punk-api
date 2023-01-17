@@ -1,0 +1,5 @@
+Search box needs to show the beer that is typed by name
+
+All checkboxes need to display the type of beer that falls into the category 
+
+Add classes for styling
